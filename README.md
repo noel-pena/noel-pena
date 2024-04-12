@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noel-pena
-- 👀 I'm an aspiring dynamic Full-Stack Developer with a keen eye for design and a solid command of HTML, CSS, and JavaScript :D 
-- 📫 How to reach me ... Noel.pena@hotmail.com
+- 👋🏽 Hi, I’m @noel-pena
+- 🎨 I'm a Full-Stack Developer with a keen eye for design. I mainly code in React but dabble in other languages.
+- 📫 Wanna reach me? You can send me an email at Noel.pena@hotmail.com
 
