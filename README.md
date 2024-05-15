@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/noel-pena/noel-pena/assets/127697218/3a906163-a56a-4350-95c4-744cb79378aa)
+![github-header-image (2)](https://github.com/noel-pena/noel-pena/assets/127697218/bc46e674-6107-4044-a4e6-be6a35b0f2df)
 
 # 👋 Hello! I'm Noel Peña
 
