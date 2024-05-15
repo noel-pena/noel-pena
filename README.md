@@ -2,7 +2,7 @@
 
 # 👋 Hello!
 
-I'm a Full-Stack Developer with a keen eye for design. I specialize in creating dynamic and responsive web applications using React.js for the frontend and Node.js, Python, or Java for the backend. I love to learn new technologies and take on new challenges.
+I'm a Full-Stack Developer with a keen eye for design. I specialize in creating dynamic and responsive web applications using React.js for the frontend and Node.js, or Python for the backend. I love to learn new technologies and take on new challenges.
 
 ## 🛠️ Languages and Tools
 
