@@ -1,6 +1,6 @@
 ![github-header-image (2)](https://github.com/noel-pena/noel-pena/assets/127697218/bc46e674-6107-4044-a4e6-be6a35b0f2df)
 
-# 👋 Hello!
+# Hello!
 
 I'm a Full-Stack Developer with a keen eye for design. I specialize in creating dynamic and responsive web applications using React.js for the frontend and Node.js, or Python for the backend. I love to learn new technologies and take on new challenges.
 
