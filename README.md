@@ -1,7 +1,7 @@
 ## Noel Pena
 
 <p align="center">
-  <img src="https://img.shields.io/badge/started%20coding%20-oct.%201999-important" />
+  <img src="https://img.shields.io/badge/coding%since%20-mar.%202023-important" />
   <img src="https://img.shields.io/badge/vulnerabilities-high-critical" />
   <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" />
 </p>
@@ -14,6 +14,6 @@
 
 - Email: [noel.pena@hotmail.com](mailto:noel.pena@hotmail.com)
 
-devin 👍🏽👍🏽
+👍🏽 devin 👍🏽
 
 API_Key=1212f4d32Dde2e
