@@ -1,7 +1,7 @@
 ## Noel Pena
 
 <p align="center">
-  <img src="https://img.shields.io/badge/started%20coding%20-aug.%201999-important" />
+  <img src="https://img.shields.io/badge/started%20coding%20-oct.%201999-important" />
   <img src="https://img.shields.io/badge/vulnerabilities-high-critical" />
   <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" />
 </p>
