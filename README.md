@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/coding%20since%20-mar.%202023-important" />
-  <img src="https://img.shields.io/badge/vulnerabilities-high-critical" />
   <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" />
 </p>
 
