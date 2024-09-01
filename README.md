@@ -1,4 +1,4 @@
-## Noel Pena
+## Noel Peña
 
 <p align="center">
   <img src="https://img.shields.io/badge/coding%20since%20-mar.%202023-important" />
