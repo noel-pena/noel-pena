@@ -12,9 +12,9 @@
 
 - Email: [noel.pena@hotmail.com](mailto:noel.pena@hotmail.com)
 
-👍🏽 Devin 👍🏽
+- I make music too: [Spotify](https://open.spotify.com/artist/7gLXw7lLcnPbNVyv6JvAZQ?si=eQQLMwdRQ-a6qqkYh3kfsA)
 
-I make music too: [Spotify](https://open.spotify.com/artist/7gLXw7lLcnPbNVyv6JvAZQ?si=eQQLMwdRQ-a6qqkYh3kfsA)
+👍🏽 Devin 👍🏽
 
 API_Key=1212f4d32Dde2e
 
