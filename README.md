@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" />
 </p>
 
-### 📫 Reach me:
+### Contact:
 
 - Website: [Noel-pena.com](https://noel-pena.com/)
 
